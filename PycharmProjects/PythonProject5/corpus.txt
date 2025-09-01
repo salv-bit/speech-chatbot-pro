@@ -1,0 +1,8 @@
+Q: What are your hours?
+A: Our office hours are Monday to Friday, 9am to 5pm.
+
+Q: Where is your office located?
+A: We are located at 42 Market Street, Lagos.
+
+Q: How can I contact support?
+A: You can email salvalife1@example.com or call +234-800-000-0000.
